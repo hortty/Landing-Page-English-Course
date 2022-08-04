@@ -17,7 +17,7 @@ html {
 }
 
 body {
-    background: linear-gradient(rgba(20,20,20,0.6),rgba(20,20,20,1)), url(/img/img1.jpg); /* gradiente */
+    background: linear-gradient(rgba(20,20,20,0.6),rgba(20,20,20,1)), url(img/img1.jpg); /* gradiente */
     background-position: center center;
     background-size: cover;
     background-position-y: 0px;
